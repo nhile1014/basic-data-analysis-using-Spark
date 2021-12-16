@@ -1,6 +1,6 @@
 # Basic data analysis using Spark
 
-Using Craft Brewery data to perform basic data analysis using Spark. The data includes three files:
+Exploring Craft Brewery data to perform basic data analysis using Spark. The data includes three files:
   - beers.csv
   - breweries.csv
   - dictionary.doc
